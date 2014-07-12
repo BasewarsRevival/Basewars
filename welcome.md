@@ -5,14 +5,14 @@
 
 <p align=center style='margin-top:0in;margin-right:.3in;
 margin-bottom:10.0pt;margin-left:.1in;text-align:center;line-height:normal'><b><u><span
-style='font-size:16.0pt;font-family:"Times New Roman";color:#C9C9C9'>FSAW Base Wars Help</span></u></b></p>
+style='font-size:16.0pt;font-family:"Times New Roman";color:#C9C9C9'>BasewarsRevival Help</span></u></b></p>
 
 <p style='margin-top:0in;margin-right:.3in;margin-bottom:12.0pt;
 margin-left:.1in;line-height:normal'><b><u><span style='font-size:16.0pt;
 font-family:"Times New Roman";color:#C9C9C9'>Basic Help</span></u></b></p>
 <pre style='font-size:10.0pt;font-family:"Times New Roman";color:#C9C9C9'>
 	Options and Spawn Menu.
-	FSAW Base Wars has two menus.
+	Base Wars has two menus.
 	'Q' -> Left Side -> FSAW Base Wars (Referred to as FSAW Base Wars Spawn Menu)
 	'Q' -> Right Side -> FSAW Base Wars (Referred to as FSAW Base Wars Options Menu)
 	The FSAW Base Wars Spawn Menu allows you to spawn items without typing chat commands. Price and Name are shown when
