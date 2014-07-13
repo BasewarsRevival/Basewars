@@ -32,7 +32,7 @@
 <p>&nbsp;</p>
 
 <p style="text-align: center;">
-<span style="font-family:arial,helvetica,sans-serif;">If you like the gamemode you can directly support the developer</span>
+<span style="font-family:arial,helvetica,sans-serif;">If you like the gamemode you can directly support the developer:</span>
 <form style="text-align: center;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="Z37L7VTRW83VA">
