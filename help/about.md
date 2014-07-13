@@ -1,7 +1,4 @@
 <html>
-<head>
-	<title>BasewarsRevival Credits</title>
-</head>
 <body>
 <h1 style="text-align: center;"><span style="font-family:arial,helvetica,sans-serif;">BasewarsRevival Credits</span></h1>
 
