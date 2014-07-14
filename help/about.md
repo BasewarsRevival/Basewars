@@ -1,23 +1,14 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
-<style type="text/css">
-
-</style>
 </head>
 <body>
 <h1 style="text-align: center;">BasewarsRevival Credits</h1>
-
 <p>&nbsp;</p>
-
 <p>A gamemode completely recoded by <strong>.delay</strong></p>
-
 <p>Logo made by <strong>Michael Law</strong></p>
-
 <p>&nbsp;</p>
-
 <p>Thanks to the testers and other helpfull guys from the web:</p>
-
 <ul>
 	<li>HabGernSpass</li>
 	<li>Blizzard929</li>
@@ -26,13 +17,9 @@
 	<li>Amazinger</li>
 	<li>[F:RP] Apache64</li>
 </ul>
-
 <p>&nbsp;</p>
-
 <p>Special thanks to all other basewars servers for giving inspirations and ideas :)</p>
-
 <p>&nbsp;</p>
-
 <p style="text-align: center;">
 If you like the gamemode you can directly support the developer:
 <form style="text-align: center;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -42,6 +29,5 @@ If you like the gamemode you can directly support the developer:
 <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
 </form>
 </p>
-
 </body>
 </html>
