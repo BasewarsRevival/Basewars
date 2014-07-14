@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<h1 style="text-align: center;">BasewarsRevival Credits</h1>
+<h1>BasewarsRevival Credits</h1>
 <p>&nbsp;</p>
 <p>A gamemode completely recoded by <strong>.delay</strong></p>
 <p>Logo made by <strong>Michael Law</strong></p>

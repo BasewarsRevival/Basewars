@@ -1,16 +1,10 @@
 <html>
-<body bgcolor="#2E2E2E" lang=EN-US>
-
-<div class=WordSection1>
-
-<p align=center style='margin-top:0in;margin-right:.3in;
-margin-bottom:10.0pt;margin-left:.1in;text-align:center;line-height:normal'><b><u><span
-style='font-size:16.0pt;font-family:"Times New Roman";color:#C9C9C9'>BasewarsRevival Credits</span></u></b></p>
-
-<p style='margin-top:0in;margin-right:.3in;margin-bottom:12.0pt;
-margin-left:.1in;line-height:normal'><b><u><span style='font-size:16.0pt;
-font-family:"Times New Roman";color:#C9C9C9'>Basewars Rules</span></u></b></p>
-
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1>BasewarsRevival Rules</h1>
+<p>&nbsp;</p>
 <pre style='font-family:"times new roman";color:white'>
 	1. Do not spam props, ropes, or anything else no matter what.
 	2. Do not prop block anything EXCEPT your base.
@@ -24,9 +18,5 @@ font-family:"Times New Roman";color:#C9C9C9'>Basewars Rules</span></u></b></p>
 	10. Listen to all admins!
     
 </pre>
-
-
-</div>
 </body>
-
 </html>
