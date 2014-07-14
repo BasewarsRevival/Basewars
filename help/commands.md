@@ -32,7 +32,7 @@ pre {
 <body>
 <h1>BasewarsRevival Commands</h1>
 <p>Type this commands in your chat to use them.</p>
-<p>&nbsp;</p>
+
 <pre>
     !team        --> Team creation menu
     !dm 123      --> Drop 123$

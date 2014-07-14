@@ -21,6 +21,7 @@ ul {
     color:#C9C9C9;
     font-size:10.0pt;
     font-family:arial,helvetica,sans-serif;
+    text-align:center;
 }
 pre {
     color:#C9C9C9;
@@ -31,7 +32,7 @@ pre {
 </head>
 <body>
 <h1>BasewarsRevival Credits</h1>
-<p>&nbsp;</p>
+
 <p>A gamemode completely recoded by <strong>.delay</strong></p>
 <p>Logo made by <strong>Michael Law</strong></p>
 <p>&nbsp;</p>

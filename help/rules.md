@@ -31,7 +31,7 @@ pre {
 </head>
 <body>
 <h1>BasewarsRevival Rules</h1>
-<p>&nbsp;</p>
+
 <pre style='font-family:"times new roman";color:white'>
 	1. Do not spam props, ropes, or anything else no matter what.
 	2. Do not prop block anything EXCEPT your base.
